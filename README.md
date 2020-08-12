@@ -4,4 +4,4 @@ I'm a student at [**Epitech**](https://www.epitech.eu/fr/ecole-informatique-nanc
 
 Likes to code, draw, and eat everything in sight.
 
-Currently working at [**Vivoka**](https://vivoka.com/en/) and trying to create an [account manager](https://github.com/ltabis/accounts-cli) in **Rust**.
+Currently working at [**keimyung university**](http://www.keimyung.ac.kr/uni/main/main.jsp) in South Korea.
