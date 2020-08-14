@@ -6,7 +6,7 @@
 
 :books: Currently working at [**keimyung university**](http://www.keimyung.ac.kr/uni/main/main.jsp) in *South Korea*.
 
-### Networks <img align="left" alt="https://ltabis.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> <img align="left" alt="https://www.linkedin.com/in/lucas-tabis-791921154/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img align="left" alt="https://www.instagram.com/tabrisse/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+### Networks [<img align="left" alt="https://ltabis.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <img align="left" alt="https://www.linkedin.com/in/lucas-tabis-791921154/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img align="left" alt="https://www.instagram.com/tabrisse/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 -----
 
