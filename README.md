@@ -6,7 +6,7 @@
 
 :books: Currently working at [**keimyung university**](http://www.keimyung.ac.kr/uni/main/main.jsp) in *South Korea*.
 
-### Networks [<img align="left" alt="https://ltabis.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <img align="left" alt="https://www.linkedin.com/in/lucas-tabis-791921154/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <img align="left" alt="https://www.instagram.com/tabrisse/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+### Networks [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 -----
 
@@ -22,3 +22,7 @@
 ### Others
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ltabis&repo=MylibC&theme=cobalt)](https://github.com/ltabis/MylibC)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ltabis&repo=Utility-scripts&theme=cobalt)](https://github.com/ltabis/Utility-scripts)
+
+[website]: https://ltabis.github.io/
+[linkedin]: https://www.linkedin.com/in/lucas-tabis-791921154/
+[instagram]: https://www.instagram.com/tabrisse/
