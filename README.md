@@ -8,10 +8,9 @@
   📖 Currently working at <a href="http://www.keimyung.ac.kr/uni/main/main.jsp">Keimyung University</a> in South Korea. 🇰🇷
 </p>
 
-
 <p align='center'>
     <a href="https://www.instagram.com/tabrisse/">
-      <img src="https://img.shields.io/badge/instagram-l_tab-%23000000.svg?&style=for-the-badge&labelColor=%23E4405F&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/instagram-l__tab-%23000000.svg?&style=for-the-badge&labelColor=%23E4405F&logo=instagram&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/lucas-tabis-791921154/">
       <img src="https://img.shields.io/badge/linkedin-Lucas Tabis-%23000000.svg?&style=for-the-badge&labelColor=%230077B5&logo=linkedin&logoColor=white" />
@@ -21,7 +20,11 @@
     </a>
 </p>
 
-### Pinned projects
+<br/>
+
+<h2 align='center'>
+  Pinned projects
+</h2>
 
 <p align='center'>
   <a href="https://github.com/ltabis/accounts-cli"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=accounts-cli&theme=dracula" width="350"></a>
@@ -33,7 +36,10 @@
     <a href="https://github.com/ltabis/electron-dev-environment"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=electron-dev-environment&theme=dracula" width="350"></a>
 </p>
 
-### Others
+<h2 align='center'>
+  Others
+</h2>
+
 <p align='center'>
     <a href="https://github.com/ltabis/MylibC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ltabis&repo=MylibC&theme=cobalt" width="350"></a>
     <a href="https://github.com/ltabis/Utility-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ltabis&repo=Utility-scripts&theme=cobalt" width="350"></a>
