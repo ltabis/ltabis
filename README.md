@@ -1,5 +1,3 @@
-## Hello person, welcome to this place.
-
 <h1 align='center'>
   Hello, I'm Lucas
 </h1>
@@ -9,6 +7,7 @@
   <br/>
   📖 Currently working at <a href="http://www.keimyung.ac.kr/uni/main/main.jsp">Keimyung University</a> in South Korea. 🇰🇷
 </p>
+
 
 <p align='center'>
     <a href="https://www.instagram.com/tabrisse/">
@@ -22,9 +21,8 @@
     </a>
 </p>
 
------
-
 ### Pinned projects
+
 [![ReadMe Card](https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=accounts-cli&theme=dracula)](https://github.com/ltabis/accounts-cli)
 [![ReadMe Card](https://github-readme-stats.ltabis.vercel.app/api/pin/?username=matteovol&repo=EclataxEngine&theme=dracula)](https://github.com/matteovol/EclataxEngine)
 [![ReadMe Card](https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=deBruijnSequence&theme=dracula)](https://github.com/ltabis/deBruijnSequence)
