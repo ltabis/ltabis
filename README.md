@@ -44,3 +44,5 @@
     <a href="https://github.com/ltabis/MylibC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ltabis&repo=MylibC&theme=cobalt" width="350"></a>
     <a href="https://github.com/ltabis/Utility-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ltabis&repo=Utility-scripts&theme=cobalt" width="350"></a>
 </p>
+
+Many thanks to [@anuraghazra](https://github.com/anuraghazra) and his awesome [github-readme-stats](https://github.com/ltabis/github-readme-stats) !
