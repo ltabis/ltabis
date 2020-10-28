@@ -35,7 +35,9 @@
   </a>
 </p>
 
-And some private repositories ...
+<p align='center'>
+  And some private repositories ...
+</p>
 
 <h2 align='center'>
   Pinned projects
