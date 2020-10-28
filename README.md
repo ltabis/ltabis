@@ -27,11 +27,15 @@
 </h2>
 
 <p align='center'>
-  <a href="https://github.com/ltabis/KMU-CG1"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1&theme=dracula" width="350></a>
-  <a href="https://github.com/ltabis/soma-test-standalone-mod"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=soma-test-standalone-mod&theme=dracula" width="350></a>
+  <a href="https://github.com/ltabis/KMU-CG1">
+    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1&theme=dracula" width="350">
+  </a>
+  <a href="https://github.com/ltabis/soma-test-standalone-mod">
+    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=soma-test-standalone-mod&theme=dracula" width="350">
+  </a>
 </p>
 
-and a few private repositories ...
+And some private repositories ...
 
 <h2 align='center'>
   Pinned projects
