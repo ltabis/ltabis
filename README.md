@@ -33,8 +33,8 @@
     <a href="https://github.com/ltabis/KMU-CG1-checker-board">
     <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-checker-board&theme=dracula" width="350">
   </a>
-  <a href="https://github.com/ltabis/soma-test-standalone-mod">
-    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=soma-test-standalone-mod&theme=dracula" width="350">
+  <a href="https://github.com/ltabis/rebirth-test-standalone-mod">
+    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=rebirth-test-standalone-mod&theme=dracula" width="350">
   </a>
 </p>
 
