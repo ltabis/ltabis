@@ -22,6 +22,7 @@
 
 <br/>
 
+<!--
 <h2 align='center'>
   What i'm working on
 </h2>
@@ -42,16 +43,22 @@
   And some private repositories ...
 </p>
 
+-->
+
 <h2 align='center'>
   Pinned projects
 </h2>
 
 <p align='center'>
+<a href="https://github.com/ltabis/KMU-CG1-mesh-loader">
+  <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350">
+</a>
+<a href="https://github.com/ltabis/KMU-CG1">
+  <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1&theme=dracula" width="350">
+</a>
+<p align='center'>
   <a href="https://github.com/ltabis/clebard-system"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=clebard-system&theme=dracula" width="350"></a>
-<p align='center'>
-<p align='center'>
   <a href="https://github.com/ltabis/KMU-CG1-checker-board"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-checker-board&theme=dracula" width="350"></a>
-<p align='center'>
   <a href="https://github.com/ltabis/hook-machine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=hook-machine&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/accounts-cli"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=accounts-cli&theme=dracula" width="350"></a>
   <a href="https://github.com/matteovol/EclataxEngine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=matteovol&repo=EclataxEngine&theme=dracula" width="350"></a>
