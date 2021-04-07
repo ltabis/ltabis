@@ -28,10 +28,7 @@
 </h2>
 
 <p align='center'>
-  <a href="https://github.com/ltabis/KMU-CG1">
-    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1&theme=dracula" width="350">
-  </a>
-    <a href="https://github.com/ltabis/KMU-CG1-mesh-loader">
+  <a href="https://github.com/ltabis/KMU-CG1-mesh-loader">
     <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350">
   </a>
   <a href="https://github.com/ltabis/rebirth-test-standalone-mod">
@@ -53,20 +50,12 @@
 <a href="https://github.com/ltabis/KMU-CG1-mesh-loader">
   <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350">
 </a>
-<a href="https://github.com/ltabis/KMU-CG1">
-  <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1&theme=dracula" width="350">
-</a>
 <p align='center'>
-  <a href="https://github.com/ltabis/clebard-system"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=clebard-system&theme=dracula" width="350"></a>
-  <a href="https://github.com/ltabis/KMU-CG1-checker-board"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-checker-board&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/hook-machine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=hook-machine&theme=dracula" width="350"></a>
-  <a href="https://github.com/ltabis/accounts-cli"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=accounts-cli&theme=dracula" width="350"></a>
   <a href="https://github.com/matteovol/EclataxEngine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=matteovol&repo=EclataxEngine&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/deBruijnSequence"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=deBruijnSequence&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/raytracer"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=raytracer&theme=dracula" width="350"></a>
-  <a href="https://github.com/ltabis/GuessTheNumberQT"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=GuessTheNumberQT&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/lingo"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=lingo&theme=dracula" width="350"></a>
-    <a href="https://github.com/ltabis/electron-dev-environment"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=electron-dev-environment&theme=dracula" width="350"></a>
 </p>
 
 <h2 align='center'>
