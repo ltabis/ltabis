@@ -18,39 +18,19 @@
     <a href="https://ltabis.github.io/">
       <img src="https://img.shields.io/badge/portfolio-ltabis-%23000000.svg?&style=for-the-badge&labelColor=%23FCA121&logo=github&logoColor=white" />
     </a>
+    <a href="https://www.fiverr.com/lucastabis/">
+      <img src="https://img.shields.io/badge/fiverr-lucastabis-%23000000.svg?&style=for-the-badge&labelColor=%2371da6c&logo=fiverr&logoColor=white" />
+    </a>
 </p>
 
 <br/>
-
-<!--
-<h2 align='center'>
-  What i'm working on
-</h2>
-
-<p align='center'>
-  <a href="https://github.com/ltabis/KMU-CG1-mesh-loader">
-    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350">
-  </a>
-  <a href="https://github.com/ltabis/rebirth-test-standalone-mod">
-    <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=rebirth-test-standalone-mod&theme=dracula" width="350">
-  </a>
-</p>
-
-<p align='center'>
-  And some private repositories ...
-</p>
-
--->
 
 <h2 align='center'>
   Pinned projects
 </h2>
 
 <p align='center'>
-<a href="https://github.com/ltabis/KMU-CG1-mesh-loader">
-  <img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350">
-</a>
-<p align='center'>
+  <a href="https://github.com/ltabis/KMU-CG1-mesh-loader"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/hook-machine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=hook-machine&theme=dracula" width="350"></a>
   <a href="https://github.com/matteovol/EclataxEngine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=matteovol&repo=EclataxEngine&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/deBruijnSequence"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=deBruijnSequence&theme=dracula" width="350"></a>
