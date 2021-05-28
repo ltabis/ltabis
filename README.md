@@ -6,6 +6,11 @@
   A student in fourth year at <a href="https://www.epitech.eu/fr/ecole-informatique-nancy/">Epitech</a> !
   <br/>
   📖 Currently working at <a href="http://www.keimyung.ac.kr/uni/main/main.jsp">Keimyung University</a> in South Korea. 🇰🇷
+  <br/>
+  <br/>
+  I'm also working for <a href="https://www.linkedin.com/company/viridit/">Viridit</a>, creating a next-generation SMTP bridge using Rust 🦀
+  <br/>
+  <br/>
 </p>
 
 <p align='center'>
