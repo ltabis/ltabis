@@ -28,6 +28,14 @@
 <br/>
 
 <h2 align='center'>
+  Advent Of Code 2021!
+</h2>
+
+<p align='center'>
+  <a href="https://github.com/ltabis/adventofcode-2021"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=adventofcode-2021&theme=dracula" width="350"></a>
+</p>
+
+<h2 align='center'>
   Pinned projects
 </h2>
 
