@@ -32,12 +32,15 @@
 </h2>
 
 <p align='center'>
+   <a href="https://github.com/viridIT/vSMTP"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=viridIT&repo=vSMTP&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/KMU-CG1-mesh-loader"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=KMU-CG1-mesh-loader&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/hook-machine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=hook-machine&theme=dracula" width="350"></a>
   <a href="https://github.com/matteovol/EclataxEngine"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=matteovol&repo=EclataxEngine&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/deBruijnSequence"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=deBruijnSequence&theme=dracula" width="350"></a>
+  <a href="https://github.com/ltabis/raytracer"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=raytracer&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/rust-game-of-life"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=rust-game-of-life&theme=dracula" width="350"></a>
   <a href="https://github.com/ltabis/lingo"><img src="https://github-readme-stats.ltabis.vercel.app/api/pin/?username=ltabis&repo=lingo&theme=dracula" width="350"></a>
+  
 </p>
 
 <h2 align='center'>
