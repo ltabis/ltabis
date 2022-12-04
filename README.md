@@ -3,14 +3,6 @@
 </h1>
 
 <p align='center'>
-  A student in fifth year at <a href="https://www.epitech.eu/fr/ecole-informatique-nancy/">Epitech</a> !
-  <br/>
-  Currently working on the <a href="https://github.com/viridIT/vSMTP">vSMTP server</a> & a (secret) writing software using Rust 🦀
-  <br/>
-  <br/>
-</p>
-
-<p align='center'>
     <a href="https://www.linkedin.com/in/lucas-tabis-791921154/">
       <img src="https://img.shields.io/badge/linkedin-Lucas Tabis-%23000000.svg?&style=for-the-badge&labelColor=%230077B5&logo=linkedin&logoColor=white" />
     </a>
